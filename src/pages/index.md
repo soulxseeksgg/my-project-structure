@@ -1,7 +1,7 @@
 ---
-id: intro
-title: Introduction to Docusaurus
-description: Learn how to get started with Docusaurus.
+id: myproject-structure
+title: Introduction to my project structure
+description: Introduction to my project structure.
 sidebar_label: Introduction
 ---
 
