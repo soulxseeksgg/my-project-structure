@@ -70,7 +70,7 @@ const config: Config = {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       hideOnScroll: true,
-      title: 'my project structure',
+      title: 'my Project Structure',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
